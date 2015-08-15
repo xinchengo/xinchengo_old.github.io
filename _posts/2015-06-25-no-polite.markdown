@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "如果没有礼貌"
+date:   2015-06-25 11:27:55
+categories: writing
+---
+如果没有礼貌，世界就是一团糟，马路成了停车场。
