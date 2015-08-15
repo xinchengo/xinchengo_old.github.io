@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""奇妙"的红花酢浆草"
+title:  "奇妙的红花酢浆草"
 date:   2015-05-12 11:27:55
 categories: writing
 ---
