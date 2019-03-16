@@ -1,6 +1,6 @@
 # Site settings
 title: My homepage
-email: xinchengo@gmail.com
+email: ******@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   我是XC，这是我的个人网站。这里记录我的日记、想法和有趣的事情。
 baseurl: "" # the subpath of your site, e.g. /blog/
