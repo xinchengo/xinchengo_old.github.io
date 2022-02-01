@@ -1,6 +1,6 @@
 # Site settings
 title: My homepage
-email: ******@gmail.com
+email: xinchengo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "/xinchengo_old.github.io/" # the subpath of your site, e.g. /blog/
