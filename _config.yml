@@ -3,8 +3,8 @@ title: My homepage
 email: ******@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lixinchen.cn/xinchengo_old.github.io" # the base hostname & protocol for your site
+baseurl: "/xinchengo_old.github.io/" # the subpath of your site, e.g. /blog/
+url: "http://lixinchen.cn/" # the base hostname & protocol for your site
 //twitter_username: jekyllrb
 //github_username:  jekyll
 
